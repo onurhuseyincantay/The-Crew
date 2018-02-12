@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>951320046999-4sgqdv9l4es2jrd4eqqifd0j331rep2j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.951320046999-4sgqdv9l4es2jrd4eqqifd0j331rep2j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCcW1dgsM-bel2b8_3Fwz5JpuNbHK2WYbg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>951320046999</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>MyCrewApp.MyCrewAppHackaton</string>
+	<key>PROJECT_ID</key>
+	<string>fishhackaton</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fishhackaton.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:951320046999:ios:cea2d40fccd378b6</string>
+	<key>DATABASE_URL</key>
+	<string>https://fishhackaton.firebaseio.com</string>
+</dict>
+</plist>
